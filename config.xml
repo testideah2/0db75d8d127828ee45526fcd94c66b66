@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "HotWell.KZ.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. HotWell.KZ</name>
+    <name>HotWell.KZ</name>
 
     <description>
         Призводство и строительство домов из СИП панелей.
